@@ -1,0 +1,5 @@
+opencv-python
+numpy
+ultralytics
+langchain
+langchain_community
